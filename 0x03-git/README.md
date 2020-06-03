@@ -1,1 +1,1 @@
-This project is about Git
+MY first time in git
